@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CauseWork.iml" filepath="$PROJECT_DIR$/CauseWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client.iml" filepath="$PROJECT_DIR$/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server.iml" filepath="$PROJECT_DIR$/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/client.iml" filepath="$PROJECT_DIR$/Client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_02/client_02.iml" filepath="$PROJECT_DIR$/client_02/client_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_three/client_three.iml" filepath="$PROJECT_DIR$/client_three/client_three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_two/client_two.iml" filepath="$PROJECT_DIR$/client_two/client_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+    </modules>
+  </component>
+</project>

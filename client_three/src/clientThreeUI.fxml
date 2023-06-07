@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane prefHeight="720.0" prefWidth="455.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ClientThreeUIController">
+   <children>
+      <ImageView fitHeight="756.0" fitWidth="455.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@img/Background.jpg" />
+         </image>
+      </ImageView>
+      <TextArea fx:id="txtAreaClient" layoutX="18.0" layoutY="38.0" prefHeight="554.0" prefWidth="420.0" />
+      <TextField fx:id="txtClient" layoutX="18.0" layoutY="629.0" prefHeight="50.0" prefWidth="293.0" />
+      <Button layoutX="338.0" layoutY="629.0" mnemonicParsing="false" onAction="#btnSendClientOnAction" prefHeight="50.0" prefWidth="84.0" text="Send" />
+   </children>
+</AnchorPane>
